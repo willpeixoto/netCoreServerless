@@ -1,0 +1,14 @@
+/Users/fvfx20w2j1wv/Documents/will/hub/serverlessNetCore/bin/Debug/netcoreapp2.1/serverlessNetCore.deps.json
+/Users/fvfx20w2j1wv/Documents/will/hub/serverlessNetCore/bin/Debug/netcoreapp2.1/serverlessNetCore.runtimeconfig.json
+/Users/fvfx20w2j1wv/Documents/will/hub/serverlessNetCore/bin/Debug/netcoreapp2.1/serverlessNetCore.runtimeconfig.dev.json
+/Users/fvfx20w2j1wv/Documents/will/hub/serverlessNetCore/bin/Debug/netcoreapp2.1/serverlessNetCore.dll
+/Users/fvfx20w2j1wv/Documents/will/hub/serverlessNetCore/bin/Debug/netcoreapp2.1/serverlessNetCore.pdb
+/Users/fvfx20w2j1wv/Documents/will/hub/serverlessNetCore/obj/Debug/netcoreapp2.1/serverlessNetCore.csprojAssemblyReference.cache
+/Users/fvfx20w2j1wv/Documents/will/hub/serverlessNetCore/obj/Debug/netcoreapp2.1/serverlessNetCore.csproj.CoreCompileInputs.cache
+/Users/fvfx20w2j1wv/Documents/will/hub/serverlessNetCore/obj/Debug/netcoreapp2.1/serverlessNetCore.RazorAssemblyInfo.cache
+/Users/fvfx20w2j1wv/Documents/will/hub/serverlessNetCore/obj/Debug/netcoreapp2.1/serverlessNetCore.RazorAssemblyInfo.cs
+/Users/fvfx20w2j1wv/Documents/will/hub/serverlessNetCore/obj/Debug/netcoreapp2.1/serverlessNetCore.AssemblyInfoInputs.cache
+/Users/fvfx20w2j1wv/Documents/will/hub/serverlessNetCore/obj/Debug/netcoreapp2.1/serverlessNetCore.AssemblyInfo.cs
+/Users/fvfx20w2j1wv/Documents/will/hub/serverlessNetCore/obj/Debug/netcoreapp2.1/serverlessNetCore.RazorTargetAssemblyInfo.cache
+/Users/fvfx20w2j1wv/Documents/will/hub/serverlessNetCore/obj/Debug/netcoreapp2.1/serverlessNetCore.dll
+/Users/fvfx20w2j1wv/Documents/will/hub/serverlessNetCore/obj/Debug/netcoreapp2.1/serverlessNetCore.pdb
